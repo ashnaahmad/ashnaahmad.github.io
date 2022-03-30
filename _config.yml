@@ -5,5 +5,5 @@ plugins:
 theme: jekyll-theme-tactile
 title: Ashna Ahmad
 sass:
-  sass_dir: ./_sass
+  sass_dir: _sass
 
