@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ashna Ahmad</title>
-    <link>https://ashnaahmad.github.io/</link>
-    <description>Recent content on Ashna Ahmad</description>
+    <title>Writing on Ashna Ahmad</title>
+    <link>https://ashnaahmad.github.io/writing/</link>
+    <description>Recent content in Writing on Ashna Ahmad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://ashnaahmad.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ashnaahmad.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chilean Telexes and the Allocation Problem</title>
       <link>https://ashnaahmad.github.io/writing/chilean_telexes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ashnaahmad.github.io/writing/chilean_telexes/</guid>
       <description>Or, &amp;ldquo;How to Get Britain Moving Again.&amp;rdquo;&#xA;Written for the TxP Progress Prize., an essay contest in partnership with Civic Future and New Statesman Spotlight. In the spirit of the competition, I&amp;rsquo;ve explored a solution to resource allocation which goes against my economic instincts, but which has at its core a capable state apparatus that harnesses and democratises cutting-edge technology. I agree entirely with TxP that the apparent depth and entrenchment of certain societal problems do not make a solution any less viable - as long as we fully exploit the possibilities afforded to us by science and technology, and don&amp;rsquo;t wallow in despair!</description>
-    </item>
-    <item>
-      <title>Links</title>
-      <link>https://ashnaahmad.github.io/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ashnaahmad.github.io/links/</guid>
-      <description>Contact LinkedIn Calendly Professional/Academic English CV French CV My undergraduate thesis My linguistics notes from Cambridge (repo) Other internet homes Varsity newspaper column Theatre portfolio Weekly Worker newspaper column (N.B. I was 14 when I wrote this column, and my political stances have evolved considerably since!) Prehistoric blog </description>
     </item>
     <item>
       <title>Marxism - a Modern Utopia?</title>
@@ -41,13 +34,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ashnaahmad.github.io/writing/slavophilia_socialist_realism/</guid>
       <description>Written in 2019.&#xA;While much of Europe spent the 19th century reshaping its systems of political and economic organisation, an intense intellectual debate in Russia was redefining the very nature of Russian-ness. The legacy of rulers like Peter I and Catherine I, who were responsible for modernising Russia’s courts, overhauling its army and dramatically increasing its foreign influence and artistic prowess, was deeply divisive. Although both of these rulers presided over usually popular developments – most notably military victory during the Great Northern War and Russo-Turkish wars – some of the most striking examples of their repressive leadership were their responses to those who challenged their progressive agenda, including the suppression of the Streltsy Rebellion1 and of around 160 popular uprisings between 1762 and 1772.</description>
-    </item>
-    <item>
-      <title>Start here</title>
-      <link>https://ashnaahmad.github.io/start_here/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ashnaahmad.github.io/start_here/</guid>
-      <description>TLDR Hi! I’m Ashna, a 22 y/o VC dividing my time between Amsterdam, London and Paris. Before starting my venture capital career, I studied computational cognitive science, interned in B2B sales, software engineering and product management roles, and had a crack at building my own startup - which I&amp;rsquo;m planning to write about in more detail as soon as I get a spare moment!&#xA;I&amp;rsquo;m interested in science-backed ways to empower humans to make more creative, informed and impactful decisions.</description>
     </item>
     <item>
       <title>The Other Russian Revolution</title>
