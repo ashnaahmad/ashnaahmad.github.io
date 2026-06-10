@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ashna Ahmad</title>
-    <link>https://ashnaahmad.github.io/</link>
-    <description>Recent content on Ashna Ahmad</description>
+    <title>Writing on Ashna Ahmad</title>
+    <link>https://ashnaahmad.github.io/writing/</link>
+    <description>Recent content in Writing on Ashna Ahmad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://ashnaahmad.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ashnaahmad.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chilean Telexes and the Allocation Problem</title>
       <link>https://ashnaahmad.github.io/writing/chilean_telexes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ashnaahmad.github.io/writing/chilean_telexes/</guid>
       <description>Or, &amp;ldquo;How to Get Britain Moving Again.&amp;rdquo;&#xA;Written for the TxP Progress Prize., an essay contest in partnership with Civic Future and New Statesman Spotlight. In the spirit of the competition, I&amp;rsquo;ve explored a solution to resource allocation which goes against my economic instincts, but which has at its core a capable state apparatus that harnesses and democratises cutting-edge technology. I agree entirely with TxP that the apparent depth and entrenchment of certain societal problems do not make a solution any less viable - as long as we fully exploit the possibilities afforded to us by science and technology, and don&amp;rsquo;t wallow in despair!</description>
-    </item>
-    <item>
-      <title>Links</title>
-      <link>https://ashnaahmad.github.io/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ashnaahmad.github.io/links/</guid>
-      <description>Contact LinkedIn Calendly Professional/Academic CV My undergraduate thesis My linguistics notes from Cambridge (repo) Other internet homes Varsity newspaper column Theatre portfolio Weekly Worker newspaper column (N.B. I was 14 when I wrote this column, and my political stances have evolved considerably since!) Prehistoric blog </description>
     </item>
     <item>
       <title>On being a failed dropout founder</title>
@@ -34,13 +27,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ashnaahmad.github.io/writing/slavophilia_socialist_realism/</guid>
       <description>Written in 2019, in my past life as an aspiring modern languages degree candidate.&#xA;While much of Europe spent the 19th century reshaping its systems of political and economic organisation, an intense intellectual debate in Russia was redefining the very nature of Russian-ness. The legacy of rulers like Peter I and Catherine I, who were responsible for modernising Russia’s courts, overhauling its army and dramatically increasing its foreign influence and artistic prowess, was deeply divisive.</description>
-    </item>
-    <item>
-      <title>Start here</title>
-      <link>https://ashnaahmad.github.io/start_here/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ashnaahmad.github.io/start_here/</guid>
-      <description>TLDR Hi! I'm Ashna, a 24y/o founding engineer and the first employee at a Stockholm-based stealth fintech. Before this, I worked in venture capital for 2 years. I also studied computational cognitive science, interned in B2B sales, software engineering and product management, and had a crack at building my own startup. I like to code, write, meet new people, and understand how others think.</description>
     </item>
   </channel>
 </rss>
